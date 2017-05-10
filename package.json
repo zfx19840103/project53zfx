@@ -1,6 +1,6 @@
 {
     "name": "generator-project53zfx",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "webpack+react+es6的模板,测试中",
     "main": "index.js",
     "scripts": {
